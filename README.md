@@ -1,6 +1,6 @@
 
-# small_matrix_package
-alleviated matrix package
+# **small_matrix_package**
+**alleviated matrix package**
 
 ## get start :
   **how to compile** ? 
